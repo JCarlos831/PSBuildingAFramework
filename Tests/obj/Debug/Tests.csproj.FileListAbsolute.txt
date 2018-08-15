@@ -1,0 +1,12 @@
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/Tests/bin/Debug/Tests.dll
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/Tests/bin/Debug/Tests.pdb
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/Tests/bin/Debug/nunit.framework.dll
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/Tests/bin/Debug/TestFramework.dll
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/Tests/bin/Debug/TestFramework.pdb
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/Tests/bin/Debug/nunit.framework.xml
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/Tests/obj/Debug/Tests.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/Tests/obj/Debug/Tests.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/Tests/obj/Debug/Tests.dll
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/Tests/obj/Debug/Tests.pdb
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/Tests/bin/Debug/WebDriver.dll
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/Tests/bin/Debug/WebDriver.xml

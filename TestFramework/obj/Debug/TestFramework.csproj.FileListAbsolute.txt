@@ -1,0 +1,10 @@
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/TestFramework/bin/Debug/TestFramework.dll
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/TestFramework/bin/Debug/TestFramework.pdb
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/TestFramework/bin/Debug/WebDriver.dll
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/TestFramework/bin/Debug/WebDriver.Support.dll
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/TestFramework/bin/Debug/WebDriver.xml
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/TestFramework/bin/Debug/WebDriver.Support.xml
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/TestFramework/obj/Debug/TestFramework.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/TestFramework/obj/Debug/TestFramework.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/TestFramework/obj/Debug/TestFramework.dll
+/Users/JuanCMontoya/Projects/PluralSight/TestFramework/TestFramework/obj/Debug/TestFramework.pdb
